@@ -1,0 +1,5 @@
+host: 0.0.0.0
+port: 6789
+token: qwe1234
+webserver: true
+server:
